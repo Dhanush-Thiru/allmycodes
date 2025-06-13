@@ -1,0 +1,14 @@
+# Ignore system folders
+AppData/
+*.log
+*.tmp
+*.exe
+*.dll
+*.class
+*.obj
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
